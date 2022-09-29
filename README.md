@@ -50,3 +50,7 @@ Package Load & Sample data Load
 ![image](https://user-images.githubusercontent.com/104436260/192939281-df84b4e9-2e73-4fde-9829-f31b114ae799.png)
 
 24시에 해당하는 행 모두 삭제
+
+날짜/시간 분리 하여 컬럼 생성->해당 분석은 시간대별로 발전량을 예측하는 Pilot분석임.
+====
+
