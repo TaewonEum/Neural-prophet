@@ -18,10 +18,14 @@ Package Load & Sample data Load
 
 1.데이터 소개
 =====
-![image](https://user-images.githubusercontent.com/104436260/192928454-9818622b-553f-4fd6-8930-e41caf456406.png)
 
 발전소 용량 및 위치정보 데이터 셋
+====
+![image](https://user-images.githubusercontent.com/104436260/192928454-9818622b-553f-4fd6-8930-e41caf456406.png)
 
 발전소 용량 시각화
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192936348-53b8d1d2-1841-4ba1-9d2a-53ce57e5ed35.png)
+
+발전소별 실제 발전량 데이터 셋
+====
