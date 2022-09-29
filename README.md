@@ -92,3 +92,7 @@ MAP, RSME 시각화
 ![image](https://user-images.githubusercontent.com/104436260/192966557-7c7f327c-24aa-4ba6-86f0-b6a784c19876.png)
 ![image](https://user-images.githubusercontent.com/104436260/192967147-bc1d8ea6-e97e-420d-8b77-f3e5d22e46d9.png)
 ![image](https://user-images.githubusercontent.com/104436260/192966937-bd2ecf42-2716-4dd0-a5a3-4ee0ee1fbd49.png)
+
+test data와 예측값 비교
+====
+![image](https://user-images.githubusercontent.com/104436260/192973680-2a92aa2c-78e8-4f9e-a25e-e3cd223b67c1.png)
