@@ -96,3 +96,9 @@ MAP, RSME 시각화
 test data와 예측값 비교
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192973680-2a92aa2c-78e8-4f9e-a25e-e3cd223b67c1.png)
+
+![image](https://user-images.githubusercontent.com/104436260/192975260-a7800556-5c01-44df-b5f8-49381f30c35a.png)
+
+전반적인 패턴만 따라가는 형태
+
+더 정확한 분석을 위해 전운량, 일사량등의 값을 포함하여 다변량 시계열 분석이 필요함.
