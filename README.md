@@ -1,4 +1,4 @@
-# Neural-prophet(10월 까지 업로드예정)
+# Neural-prophet 단변량 시계열 분석
 
 산자부 태양광 보급사업 예산사업 효율화 및 연계활용을 위한 Pilot분석 코드입니다.
 
