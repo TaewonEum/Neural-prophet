@@ -74,3 +74,8 @@ Model Training
 ![image](https://user-images.githubusercontent.com/104436260/192943962-89eeb870-f550-4cb4-82a1-363409b15bc5.png)
 
 ![image](https://user-images.githubusercontent.com/104436260/192944173-261bdacf-6b15-4b38-a2f6-8bf41c7ad06e.png)
+
+
+Train Data 예측값
+====
+![image](https://user-images.githubusercontent.com/104436260/192963615-a572c8ad-3a3f-4594-b49c-cd5fc7774bbc.png)
