@@ -46,3 +46,7 @@ Package Load & Sample data Load
 ![image](https://user-images.githubusercontent.com/104436260/192938459-6e23a0ff-65e9-4974-8326-868340f09837.png)
 
 24시 정각의 값은 모두 정수로 표현되어 있음, 하지만 24시 정각에는 발전량이 거의 없으므로 해당 Pilot 분석에서 해당 행들은 삭제하고 진행
+
+![image](https://user-images.githubusercontent.com/104436260/192939281-df84b4e9-2e73-4fde-9829-f31b114ae799.png)
+
+24시에 해당하는 행 모두 삭제
