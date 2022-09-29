@@ -68,3 +68,6 @@ Train&Test Split
 약 9:1비율로 Train Test Split
 
 ![image](https://user-images.githubusercontent.com/104436260/192943274-57b4efa5-5ade-4f48-b634-90ce13ad8b0d.png)
+
+Model Training
+=====
