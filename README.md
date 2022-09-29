@@ -24,3 +24,4 @@ Package Load & Sample data Load
 
 발전소 용량 시각화
 ====
+![image](https://user-images.githubusercontent.com/104436260/192936348-53b8d1d2-1841-4ba1-9d2a-53ce57e5ed35.png)
