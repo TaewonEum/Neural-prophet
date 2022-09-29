@@ -79,3 +79,6 @@ Model Training
 Train Data 예측값
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192963615-a572c8ad-3a3f-4594-b49c-cd5fc7774bbc.png)
+
+
+![image](https://user-images.githubusercontent.com/104436260/192963872-4268df91-19e5-478c-b790-ee8c3e187c1e.png)
