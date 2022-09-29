@@ -43,3 +43,6 @@ Package Load & Sample data Load
 
 날짜 변수 전처리
 ====
+![image](https://user-images.githubusercontent.com/104436260/192938459-6e23a0ff-65e9-4974-8326-868340f09837.png)
+
+24시 정각의 값은 모두 정수로 표현되어 있음, 하지만 24시 정각에는 발전량이 거의 없으므로 해당 Pilot 분석에서 해당 행들은 삭제하고 진행
