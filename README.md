@@ -64,3 +64,5 @@ Package Load & Sample data Load
 Train&Test Split
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192942522-0d273244-ed97-4ac0-96af-877e3f446724.png)
+
+약 9:1비율로 Train Test Split
