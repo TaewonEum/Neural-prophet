@@ -37,5 +37,5 @@ Package Load & Sample data Load
 
 결측값 처리
 =====
-인근 발전소 발전량으로 결측값 처리
-
+![image](https://user-images.githubusercontent.com/104436260/192938116-ddbe745a-6ca3-437b-83d5-e0943e941bb1.png)
+인근 발전소 발전량으로 결측값 대체
