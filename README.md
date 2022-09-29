@@ -29,3 +29,4 @@ Package Load & Sample data Load
 
 발전소별 실제 발전량 데이터 셋
 ====
+![image](https://user-images.githubusercontent.com/104436260/192936768-558eb9ed-db4a-42da-9136-2b8f8da79324.png)
