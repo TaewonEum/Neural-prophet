@@ -13,3 +13,5 @@
 This is a Sample Neural Prophet Code(Univariate)
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192928122-e0fe2865-cf13-4b6e-80c0-5861ebc1fe69.png)
+
+Package Load & Sample data Load
