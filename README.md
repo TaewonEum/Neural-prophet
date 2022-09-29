@@ -33,4 +33,9 @@ Package Load & Sample data Load
 
 발전소 데이터 셋 EDA
 ====
+![image](https://user-images.githubusercontent.com/104436260/192937027-8b51e6e8-171e-44a0-a986-169cd73ad962.png)
+
+결측값 처리
+=====
+인근 발전소 발전량으로 결측값 처리
 
