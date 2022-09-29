@@ -15,3 +15,9 @@ This is a Sample Neural Prophet Code(Univariate)
 ![image](https://user-images.githubusercontent.com/104436260/192928122-e0fe2865-cf13-4b6e-80c0-5861ebc1fe69.png)
 
 Package Load & Sample data Load
+
+데이터 소개
+=====
+![image](https://user-images.githubusercontent.com/104436260/192928454-9818622b-553f-4fd6-8930-e41caf456406.png)
+
+발전소 용량 및 위치정보 데이터 셋
