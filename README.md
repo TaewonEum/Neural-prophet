@@ -60,3 +60,6 @@ Package Load & Sample data Load
 7일치 샘플 발전량 데이터 시각화
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192941602-ed830655-1364-4cfa-bcce-49b83934a330.png)
+
+Train&Test Split
+====
