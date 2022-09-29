@@ -71,3 +71,4 @@ Train&Test Split
 
 Model Training
 =====
+![image](https://user-images.githubusercontent.com/104436260/192943962-89eeb870-f550-4cb4-82a1-363409b15bc5.png)
