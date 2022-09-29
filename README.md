@@ -54,3 +54,6 @@ Package Load & Sample data Load
 날짜/시간 분리 하여 컬럼 생성->해당 분석은 시간대별로 발전량을 예측하는 Pilot분석임.
 ====
 ![image](https://user-images.githubusercontent.com/104436260/192940233-8ca8feec-3581-4c08-ab93-877d70b0b4f9.png)
+
+![image](https://user-images.githubusercontent.com/104436260/192940532-d535b434-c49b-4ca9-a151-a50cfcfdd4a7.png)
+
