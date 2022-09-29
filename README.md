@@ -16,7 +16,7 @@ This is a Sample Neural Prophet Code(Univariate)
 
 Package Load & Sample data Load
 
-데이터 소개
+1.데이터 소개
 =====
 ![image](https://user-images.githubusercontent.com/104436260/192928454-9818622b-553f-4fd6-8930-e41caf456406.png)
 
