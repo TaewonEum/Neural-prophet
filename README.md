@@ -57,3 +57,5 @@ Package Load & Sample data Load
 
 ![image](https://user-images.githubusercontent.com/104436260/192940532-d535b434-c49b-4ca9-a151-a50cfcfdd4a7.png)
 
+7일치 샘플 발전량 데이터 시각화
+====
